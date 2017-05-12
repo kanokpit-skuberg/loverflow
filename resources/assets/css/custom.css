@@ -1,0 +1,11 @@
+.simple-root {
+	margin-top: 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.help.is-danger {
+	color: red;
+}
+.form-control.is-danger {
+	border: 1px solid red;
+}
