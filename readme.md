@@ -1,3 +1,5 @@
+Installing Step
+------------
 1.	composer create-project --prefer-dist laravel/laravel Loverflow
 2.	cd Loverflow
 3.	php artisan serve
